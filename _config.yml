@@ -1,5 +1,5 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "UnholySleeper's Rimworld List"
 favicon: assets/img/favicon.png
 description: >-
   An expanded item list for TwitchToolkit that supports most ToolkitUtils' shop.
@@ -44,10 +44,10 @@ store:
     usage: true
   events:
     # Whether or not the event list will display the command a viewer should type for purchasing that event.
-    usage: false
+    usage: true
   animals:
     # Whether or not the animal list will display the command a viewer should type for purchasing that animal.
-    usage: false
+    usage: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
